@@ -1,5 +1,6 @@
 # Condition-Monitoring-of-brake-disc-images-using-CNN
-Deep learning project and research paper in the field of condition moonitoring
+Deep learning project and research paper in the field of condition monitoring.
+
 About the research paper:
 - Link to paper:
   "https://ieeexplore.ieee.org/abstract/document/10112491"
